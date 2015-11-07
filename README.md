@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #easyou
 
 thinkphp+amazeUI完成
@@ -8,3 +9,6 @@ thinkphp+amazeUI完成
 
 前台采用pjax，保证速度。
 
+=======
+# eyblog1
+>>>>>>> origin/master
